@@ -1,5 +1,3 @@
-package com.adamkoch;
-
 import java.io.IOException;
 
 /**
